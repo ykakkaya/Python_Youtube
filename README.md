@@ -1,2 +1,2 @@
 # Python_Youtube
-youtube video içerikleri
+## ykakkaya youtube kanalında yayınlanan video kodları
